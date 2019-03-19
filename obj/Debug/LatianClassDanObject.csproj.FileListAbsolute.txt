@@ -1,0 +1,7 @@
+D:\18.11.2368\Class Dan Object\LatianClassDanObject\LatianClassDanObject\bin\Debug\LatianClassDanObject.exe.config
+D:\18.11.2368\Class Dan Object\LatianClassDanObject\LatianClassDanObject\bin\Debug\LatianClassDanObject.exe
+D:\18.11.2368\Class Dan Object\LatianClassDanObject\LatianClassDanObject\bin\Debug\LatianClassDanObject.pdb
+D:\18.11.2368\Class Dan Object\LatianClassDanObject\LatianClassDanObject\obj\Debug\LatianClassDanObject.csprojAssemblyReference.cache
+D:\18.11.2368\Class Dan Object\LatianClassDanObject\LatianClassDanObject\obj\Debug\LatianClassDanObject.csproj.CoreCompileInputs.cache
+D:\18.11.2368\Class Dan Object\LatianClassDanObject\LatianClassDanObject\obj\Debug\LatianClassDanObject.exe
+D:\18.11.2368\Class Dan Object\LatianClassDanObject\LatianClassDanObject\obj\Debug\LatianClassDanObject.pdb
